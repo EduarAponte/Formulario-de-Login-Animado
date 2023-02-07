@@ -92,7 +92,7 @@ git clone https://github.com/EduarAponte/Formulario-de-Login-Animado.git
 </a>
 <br>
 
-[![Assistir Tutorial](assets/to_readme/imagemPlay1.png)](https://www.youtube.com/channel/UCQmEVT0Cj2UsqLdjZJzQ-FA)
+
 
 # Observações
 
