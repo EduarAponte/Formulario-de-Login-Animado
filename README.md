@@ -86,12 +86,13 @@ git clone https://github.com/EduarAponte/Formulario-de-Login-Animado.git
 
 ### Assitir o tutorial
 
-<a href="hhttps://www.youtube.com/channel/UCQmEVT0Cj2UsqLdjZJzQ-FA" target="_blank">
+<a href="https://www.youtube.com/channel/UCQmEVT0Cj2UsqLdjZJzQ-FA" target="_blank">
   <img src="assets/to_readme/imagemPlay1.png" 
   alt="Assistir Tutorial no YouTube" width="15%" height="15%" />
 </a>
 <br>
 
+[![Assistir Tutorial](assets/to_readme/imagemPlay1.png)](https://www.youtube.com/channel/UCQmEVT0Cj2UsqLdjZJzQ-FA)
 
 # Observações
 
