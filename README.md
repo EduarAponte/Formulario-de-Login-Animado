@@ -74,7 +74,7 @@ O principal objetivo do projeto é colocar em prática os conhecimentos em CSS p
 
 # Como Testar
 
-Você pode acessar o projeto [![Netlify Status](https://api.netlify.com/api/v1/badges/e417a718-c0c7-45e3-97a9-a7b79149be7f/deploy-status)](https://app.netlify.com/sites/eduaraponte-formulario-login-animado/deploys) ou [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white&style="border-radius:65px;)](https://github.com/EduarAponte/Formulario-de-Login-Animado)
+Você pode acessar o projeto [![Netlify Status](https://api.netlify.com/api/v1/badges/e417a718-c0c7-45e3-97a9-a7b79149be7f/deploy-status)](https://eduaraponte-formulario-login-animado.netlify.app) ou [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white&style="border-radius:65px;)](https://github.com/EduarAponte/Formulario-de-Login-Animado)
 
 Ou rodar na sua maquina.
 
@@ -86,7 +86,7 @@ git clone https://github.com/EduarAponte/Formulario-de-Login-Animado.git
 
 ### Assitir o tutorial
 
-<a href="https://www.youtube.com/channel/UCQmEVT0Cj2UsqLdjZJzQ-FA" target="_blank">
+<a href="https://youtu.be/rIq0xpRB9vY" target="_blank">
   <img src="assets/to_readme/imagemPlay1.png" 
   alt="Assistir Tutorial no YouTube" width="15%" height="15%" />
 </a>
